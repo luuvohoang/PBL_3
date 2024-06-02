@@ -414,5 +414,8 @@ public class test extends Applet{
 		return s;
 	}
 	
-
+Day di hoc buoi sang, 06h30, 1000
+Day di hoc buoi trua, 12h00, 100
+Hoc Toan, 08h00, 500
+Hoc Van, 10h00, 300
 }
